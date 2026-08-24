@@ -1,0 +1,3 @@
+key,file,sha256,bytes,source_path
+a,kepler.csv,c945f9a5b9f69111add6ccdc7d84dd10b3d42cfe51ce78977148db832beab50e,1273430,prism-uploads/kepler.csv
+b,nasa_exoplanet_intelligence.csv,684d4ae9eaa375a07d50f1f521c4fbbeb3a8cbbe4ec1e0b0598c2dd51f7da287,1465558,prism-uploads/nasa_exoplanet_intelligence.csv

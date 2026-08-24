@@ -1,0 +1,33 @@
+section,stage,n,denominator,fraction
+cohort,Raw A,3732,,
+cohort,Raw B,6150,,
+cohort,Tier 1,2981,,
+cohort,Primary paired radii,2588,,
+cohort,Concordant transits,2561,,
+matching,Name candidates,3343,,
+matching,Candidates with paired periods,3282,,
+matching,Candidates missing at least one period,61,,
+matching,Tier 1,2981,,
+matching,Tier 2,198,,
+matching,Rejected,164,,
+matching,Manually reviewed,0,,
+availability,density_g_cm3:a_only,1,2981.0,0.0003354579000335458
+availability,escape_velocity_km_s:a_only,1,2981.0,0.0003354579000335458
+availability,geometric_area_ratio_ppm:a_only,1,2981.0,0.0003354579000335458
+availability,gravity_gearth:a_only,1,2981.0,0.0003354579000335458
+availability,insolation_searth:a_only,3,2981.0,0.0010063737001006373
+availability,density_g_cm3:b_only,2381,2981.0,0.7987252599798725
+availability,escape_velocity_km_s:b_only,2381,2981.0,0.7987252599798725
+availability,geometric_area_ratio_ppm:b_only,361,2981.0,0.12110030191211003
+availability,gravity_gearth:b_only,2381,2981.0,0.7987252599798725
+availability,insolation_searth:b_only,1490,2981.0,0.49983227104998323
+availability,density_g_cm3:both,558,2981.0,0.18718550821871854
+availability,escape_velocity_km_s:both,558,2981.0,0.18718550821871854
+availability,geometric_area_ratio_ppm:both,2588,2981.0,0.8681650452868165
+availability,gravity_gearth:both,558,2981.0,0.18718550821871854
+availability,insolation_searth:both,1474,2981.0,0.4944649446494465
+availability,density_g_cm3:neither,41,2981.0,0.013753773901375378
+availability,escape_velocity_km_s:neither,41,2981.0,0.013753773901375378
+availability,geometric_area_ratio_ppm:neither,31,2981.0,0.01039919490103992
+availability,gravity_gearth:neither,41,2981.0,0.013753773901375378
+availability,insolation_searth:neither,14,2981.0,0.004696410600469641

@@ -1,0 +1,21 @@
+discovery_method_source,discovery_method_class,transit_evidence,n,source,normalized_label,rule_justification
+Astrometry,astrometry,absent,1,a,astrometry,Astrometric discovery is not transit evidence.
+Imaging,imaging,absent,93,a,imaging,Direct imaging is not transit evidence.
+Microlensing,microlensing,absent,65,a,microlensing,Microlensing is not transit evidence.
+Radial Velocity,radial_velocity,absent,745,a,radial velocity,Radial velocity is not transit evidence.
+Pulsar,timing,absent,29,a,pulsar,"Pulsar discovery is timing based, not transit based."
+Primary Transit,transit,confirmed,2778,a,primary transit,The source explicitly identifies primary-transit discovery.
+"Primary Transit, TTV",transit,confirmed,2,a,"primary transit, ttv",Primary-transit evidence is explicit; TTV is additional.
+TTV,timing,supported,5,a,ttv,The abbreviation alone supports but does not independently certify transit status.
+Other,other,unresolved,14,a,other,The source label has no controlled transit interpretation.
+Astrometry,astrometry,absent,6,b,astrometry,Astrometric discovery is not transit evidence.
+Imaging,imaging,absent,94,b,imaging,Direct imaging is not transit evidence.
+Microlensing,microlensing,absent,275,b,microlensing,Microlensing is not transit evidence.
+Disk Kinematics,other,absent,1,b,disk kinematics,Disk-kinematic discovery is not transit evidence.
+Radial Velocity,radial_velocity,absent,1182,b,radial velocity,Radial velocity is not transit evidence.
+Pulsar Timing,timing,absent,8,b,pulsar timing,Pulsar timing is not transit evidence.
+Pulsation Timing Variations,timing,absent,2,b,pulsation timing variations,Pulsation timing is not transit evidence.
+Transit Timing Variations,timing,confirmed,39,b,transit timing variations,The source label explicitly states transit timing variations.
+Transit,transit,confirmed,4517,b,transit,The source explicitly identifies transit discovery.
+Orbital Brightness Modulation,other,unresolved,9,b,orbital brightness modulation,Photometric modulation is insufficient for confirmed transit status.
+Eclipse Timing Variations,timing,unresolved,17,b,eclipse timing variations,Eclipse timing alone does not certify a planetary transit.
